@@ -10,5 +10,6 @@ C++ STL精讲代码随课代码
 ## 代码仓库
 > https://github.com/ZZray/CppStl
 
-## 在线地址
-> https://ppblog.net
+## 公众号
+
+![](https://static.ppblog.net/?explorer/share/file&hash=e9a1UMznMNrvKC3QyieDDk-_mduC21FIAN14rUKGs4hOgqGhApMcYb3t709TXOQcNg "公众号")
