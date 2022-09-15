@@ -1,0 +1,6 @@
+project(run_before_main)
+file(GLOB_RECURSE SRCS ${CMAKE_CURRENT_SOURCE_DIR}/*.cc)
+message("Source code:" ${SRCS})
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+add_executable(${PROJECT_NAME} ${SRCS})
