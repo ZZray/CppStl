@@ -1,11 +1,8 @@
 #include <iostream>
-#include<ranges>
+#include<array>
 int main(int argc, char* argv[])
 {
-	int arr[] = { 1, 2, 3, 4 };
-	std::begin(arr);
-	for (const auto& i : std::ranges::) {
-		
-	}
+	int arr[2] = {1, 2};
+	
 	return 0;
 }

@@ -1,0 +1,6 @@
+project(shuffle)
+file(GLOB_RECURSE SRCS main.cc)
+message("Source code:" ${SRCS})
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+add_executable(${PROJECT_NAME} ${SRCS})
